@@ -139,6 +139,7 @@ a{
 
 /* ************ HEADER STYLE STARTS ************ */
 .site-header{
+    margin-bottom: 22px;
     padding-top: 44px;
     padding-bottom: 23px;
     background-color: var(--header-bg-color);
@@ -229,5 +230,221 @@ a{
     color: var(--active-color);
 }
 
-
 /* ************ HEADER STYLE ENDS ************ */
+
+
+/* ************ CORONA STYLE STARTS ************ */
+.corona-section{
+    margin-bottom: 12px;
+    
+}
+
+.corona__wrapper{
+    padding-top: 44px;
+    padding-bottom: 44px;
+    padding-left: 35px;
+    border-radius: 5px;
+    background-color: var(--header-bg-color);
+}
+
+.corona__list{
+    display: flex;
+    align-items: center;
+}
+
+.corona__item{
+    display: flex;
+    align-items: center;
+}
+
+.corona__item:first-child{
+    padding-right: 71px;
+    border-right: 2px solid var(--infected-color);
+}
+
+.corona__img{
+    margin-right: 25px;
+}
+
+.corona__title{
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 100%;
+    max-width: 232px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+
+.corona__desc{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* ************ CORONA STYLE ENDS ************ */
+
+
+/* ************ HERO STYLE STARTS ************ */
+.hero-section{
+    
+}
+
+.hero__wrapper--start{
+    margin-right: 35px;
+}
+
+.hero__wrapper{
+    margin-bottom: 40px;
+    display: flex;
+    align-items: baseline;
+}
+
+.hero__main{
+    margin-top: 0;
+    margin-bottom: 13px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: var(--dead-color);
+}
+
+.hero__list{
+    
+}
+
+.hero__item{
+    margin-bottom: 18px;
+    display: flex;
+}
+
+.hero__img{
+    margin-right: 19px;
+}
+
+.hero__title{
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    color: var(--title-text-color);
+}
+
+.hero__desc{
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: var(--desc-text-color);
+}
+
+.hero__time{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: var(--date-text-color);
+}
+
+.hero__time::before{
+    margin-right: 4px;
+    content: url(../images/clock.svg);
+}
+
+.right__item{
+}
+
+.righ__info{
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding-top: 16px;
+    padding-right: 20px;
+    padding-bottom: 18px;
+    padding-left: 20px;
+    background: #F6F6F9;
+    border-radius: 5px;
+}
+
+.right__title{
+    margin-top: 0;
+    margin-bottom: 6px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: var(--title-text-color);
+}
+
+.right__desc{
+    margin-top: 0;
+    margin-bottom: 11px;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: var(--title-text-color);
+}
+
+.right__time{
+    margin-top: 0;
+    margin-bottom: 22px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: var(--date-text-color);
+}
+
+.right__time::after{
+    margin-top: 15px;
+    display: block;
+    content: "";
+    border-bottom: 4px solid #E4E4E4;
+}
+
+.right__desc1{
+    margin-top: 0;
+    margin-bottom: 11px;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: var(--title-text-color);
+}
+
+.right__time1{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: var(--date-text-color);
+}
+
+
+.hero_btn{
+    padding: 10px 32px;
+    margin-bottom: 40px;
+    margin-left: 270px;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: var(--footer-text-color);
+    background: var(--active-color);
+    border-radius: 5px;
+    border: none;
+}
+
+
+
+
+
+
+/* ************ HERO STYLE ENDS ************ */
+
+

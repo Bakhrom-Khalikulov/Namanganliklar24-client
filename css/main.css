@@ -1,57 +1,57 @@
 /* rubik-regular - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Rubik';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/rubik-v23-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/rubik-v23-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/rubik-v23-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/rubik-v23-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-500 - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Rubik';
-  font-style: normal;
-  font-weight: 500;
-  src: url('../fonts/rubik-v23-latin-500.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/rubik-v23-latin-500.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/rubik-v23-latin-500.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/rubik-v23-latin-500.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rubik-700 - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Rubik';
-  font-style: normal;
-  font-weight: 700;
-  src: url('../fonts/rubik-v23-latin-700.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/rubik-v23-latin-700.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/rubik-v23-latin-700.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/rubik-v23-latin-700.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /* roboto-regular - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/roboto-v30-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/roboto-v30-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/roboto-v30-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/roboto-v30-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-500 - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 500;
-  src: url('../fonts/roboto-v30-latin-500.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/roboto-v30-latin-500.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/roboto-v30-latin-500.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/roboto-v30-latin-500.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-500italic - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Roboto';
-  font-style: italic;
-  font-weight: 500;
-  src: url('../fonts/roboto-v30-latin-500italic.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/roboto-v30-latin-500italic.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    src: url('../fonts/roboto-v30-latin-500italic.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+    url('../fonts/roboto-v30-latin-500italic.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 
@@ -61,17 +61,17 @@
     --currency-color2: #7A7A7A;
     --nav-color: #515151;
     --active-color: #295091;
-
+    
     --corona-color: #000;
     --infected-color: #DB0000;
     --recovered-color: #05B135;
     --dead-color: #000;
-
-    --main-bg-color: #E5E5E5;
+    
+    --main-bg-color: #fff;
     --title-text-color: #202020;
     --desc-text-color: #434343;
     --date-text-color: #7688A4;
-
+    
     --footer-bg-color: #295093;
     --footer-text-color: #fff;
 }
@@ -93,9 +93,9 @@ body{
     flex-direction: column;
     height: 100%;
     margin: 0;
-    font-family: "Arial", sans-serif;
+    font-family: 'Rubik', sans-serif;
     font-weight: 400;
-    background-color: #fff;
+    background-color: var(--main-bg-color);
 }
 
 img{
@@ -136,3 +136,98 @@ ul{
 a{
     text-decoration: none;
 }
+
+/* ************ HEADER STYLE STARTS ************ */
+.site-header{
+    padding-top: 44px;
+    padding-bottom: 23px;
+    background-color: var(--header-bg-color);
+}
+
+.header__wrapper{
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.header__link{
+    margin-right: 25px;
+}
+
+.header__currency--amount{
+    margin-right: 20px;
+    font-size: 16px;
+    line-height: 19px;
+    color: var(--currency-color2);
+}
+
+.header__currency--color{
+    font-weight: 600;
+    color: var(--currency-color1);
+}
+
+.header__search{
+    margin-right: 22px;
+    border: 1px solid var(--main-bg-color);
+    background-color: var(--main-bg-color);
+}
+
+.site__language{
+    margin-right: 31px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #535353;
+}
+
+.flag{
+    border-radius: 50%;
+}
+
+.header__follow{
+    padding: 10px 12px;
+    background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+    border-radius: 5px;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: var(--main-bg-color);
+}
+
+.header__tg{
+    margin-right: 7px;
+}
+
+
+.header__nav{
+    margin-bottom: 18px;
+    padding: 21px 25px;
+    background-color: var(--main-bg-color);
+    box-shadow: 0px 2px 5px rgba(159, 159, 159, 0.19);
+    border-radius: 5px;
+}
+
+.nav__list{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.nav__link{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 23px;
+    color: var(--nav-color);
+}
+
+.nav__link:active{
+    color: var(--active-color);
+}
+
+
+/* ************ HEADER STYLE ENDS ************ */
